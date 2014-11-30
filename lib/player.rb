@@ -1,4 +1,5 @@
 require_relative "scrabble"
+
 class Player
 
   attr_reader :plays
